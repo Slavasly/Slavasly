@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slavasly
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS, GCP, Azure Devops
 - 💞️ I’m looking to collaborate on real project
 - 📫 How to reach me https://t.me/slavasly
 
